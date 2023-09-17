@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nada, a junior software testing engineer 👨‍💻 been testing since 2020!</div>  
+### <div align="center">I'm Nada, a junior software testing engineer 👨‍💻 been testing since 2022!</div>  
   
 
 - 🔭 I'm currently a software testing student @ITI 3-month program graduating in November
