@@ -3,16 +3,20 @@
 </div>  
   
 
-### <div align="center">I'm Nada, a junior software testing engineer 👨‍💻 been testing since 2022!</div>  
+### <div align="center">Hello 👋, I'm Nada, a junior software testing engineer 👨‍💻 been testing since 2022!</div>  
   
 
-- 🔭 I'm currently a software testing student @ITI 3-month program graduating in November
-  
+- 👩‍🎓 I graduated from Computer & Systems Engineering
+
+- 🔭 I recently graduated from software testing @ITI 3-month program
 
 - ⚡ I love doing both manual and automation tests
   
 
 <br/>  
+
+## <div align="center"> [You can now find my website portfolio here 🌼](https://nada-software-tester.odoo.com/)</div>  
+
 
 
 ## My Skill Set  
@@ -55,6 +59,10 @@
 <a href="https://github.com/4noudi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+</a>
+<a href="https://nada-software-tester.odoo.com/" target="_blank">
+<p>My Awesome Portfolio</p>
+</a> 
 </div>  
   
 
